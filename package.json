@@ -1,0 +1,22 @@
+{
+  "name": "d7kj-cocos",
+  "version": "0.0.1",
+  "description": "The package template for getting started.",
+  "author": "feifeigd",
+  "main": "main.js",
+  "main-menu": {
+    "i18n:MAIN_MENU.package.title/d7kj-cocos/open": {
+      "message": "d7kj-cocos:open"
+    },
+    "i18n:MAIN_MENU.package.title/d7kj-cocos/hello": {
+      "message": "d7kj-cocos:say-hello"
+    }
+  },
+  "panel": {
+    "main": "panel/index.js",
+    "type": "dockable",
+    "title": "d7kj-cocos",
+    "width": 400,
+    "height": 300
+  }
+}
