@@ -1,7 +1,7 @@
 {
   "name": "d7kj-cocos",
   "version": "0.0.1",
-  "description": "The package template for getting started.",
+  "description": "cocos creator扩展.",
   "author": "feifeigd",
   "main": "main.js",
   "main-menu": {
@@ -10,6 +10,9 @@
     },
     "i18n:MAIN_MENU.package.title/d7kj-cocos/hello": {
       "message": "d7kj-cocos:say-hello"
+    },
+    "d7kj-cocos/生成标准文件夹":{
+      "message": "d7kj-cocos:gen_std_dirs"
     }
   },
   "panel": {
